@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "app": "App",
+  "detail": "Detail",
+  "during": "During",
+  "night": "Night",
+  "en": "EN",
+  "cn": "CN",
+  "btn": "BTN {number}"
+}
